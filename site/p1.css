@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 }
 h1{
-	margin-bottom: 15px;
+	margin-bottom: 70px;
 	text-align: center;
 }	
 .row {
@@ -15,34 +15,34 @@ section {
 section.row1 {
 	border: 1px solid black;
 	width: 80px;
-	height: 30px;
+	height: 25px;
 	font-weight: bold;
 	position: relative;
-	bottom: -1px;
-    left: 155px;
+	bottom: 1px;
+    left: 156px;
 	background-color: #FF99CC;
 }
 
 section.row2 {
 	border: 1px solid black;
 	width: 80px;
-	height: 30px;
+	height: 25px;
 	color: white;
 	font-weight: bold;
 	position: relative;
-	bottom: -1px;
-	left: 155px;
+	bottom: 1px;
+	left: 156px;
 	background-color: #CC3300;
 }
 
 section.row3 {
 	border: 1px solid black;
 	width: 80px;
-	height: 30px;
+	height: 25px;
 	color: black;
 	font-weight: bold;
 	position: relative;
-	bottom: -1px;
-	left: 155px;
+	bottom: 1px;
+	left: 156px;
 	background-color: #FFFF99;
 }
